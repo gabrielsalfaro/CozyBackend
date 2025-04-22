@@ -1,5 +1,5 @@
 
-# Cozy Backend
+# CozyVibe
 
 
 ## Database Schema Design
